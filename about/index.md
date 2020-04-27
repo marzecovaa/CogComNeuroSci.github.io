@@ -33,6 +33,7 @@ From this perspective, human behavior is often not optimal, but humans learn to 
 
 Although this is a fairly broad topic, there are a few recurring themes, such as learning to use inter-areal synchrony for neural communication; learning what to store in declarative memory; and learning the (meta-)parameters of decision processes. For this research, we use behavioral, computational, and neural methods.
 
+
 __More information:__  
 * Personal website: [users.ugent.be/~tverguts](https://users.ugent.be/~tverguts/Site/Home.html)
 * GitHub: [@tomverguts](https://github.com/tomverguts)
